@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Joab Medeiros 12
 
-- 🔭 Hoje Trabalho com Front - end
+- 🔭 Desenvolvedor Sofware - teste 
 - 🌱  Estudando Analise e desevolvimento de sistema 
 - 😄 Pronouns: ele/dele
 
